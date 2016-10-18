@@ -1,0 +1,42 @@
+mystrlen ganesh 6
+mystrlen kkk 1
+mystrlen nilesh -8
+
+mystrcpy mahesh ganu
+mystrcpy ganesh landge
+mystrcpy mahesh maheshkumar
+
+mystpcpy tanmay mahesh
+mystpcpy akshay akshaykumar
+mystpcpy vivek vivu
+	
+mystrncpy ganesh landge 3
+mystrncpy ganesh abhishek 10
+mystrncpy abhishek yashashree 5
+mystrncpy ganesh landge 0
+
+mystrcmp ganesh ganesh 0
+mystrcmp abc b 1
+mystrcmp j like 2
+mystrcmp abhi anu -5
+
+mystrncmp ganeshlandge ganesh 6 0
+mystrncmp ganesh ganpati 4 4
+mystrncmp abhishek anurag 0 0
+mystrncmp vivek tatya 4 -4
+
+mystrcasecmp gAnESh ganesh 0
+mystrcasecmp Abc b 1
+mystrcasecmp J Jike 2
+mystrcasecmp abHI AnU -5
+
+mystrncasecmp GanESHLANdge ganesh 6 0
+mystrncasecmp GANesh ganpATI 4 4
+mystrncasecmp abhishek anurag 0 0
+mystrncasecmp vIVEk TYTYA 4 -4
+
+mystrcat ganesh sachin
+mystrcat vaibhav abhishek
+mystrcat abhishek yashashree
+mystrcat ganesh
+
