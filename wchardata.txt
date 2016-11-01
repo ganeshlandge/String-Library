@@ -1,7 +1,0 @@
-mywcslen ganesh 6
-mywcslen kkk 1
-mywcslen nilesh -8
-
-mywcscpy mahesh ganu
-mywcscpy ganesh landge
-mywcscpy mahesh maheshkumar
