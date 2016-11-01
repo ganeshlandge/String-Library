@@ -1,0 +1,278 @@
+mystrlen ganesh 6
+mystrlen kkk 1
+mystrlen nilesh -8
+mystrlen fjkh 4
+mystrlen mahi 10
+mystrlen mahesh 6
+mystrlen hjgdjgsgduysgsuygsuhjgsyughsbsygdshbdsuihdhjsbdsu 50
+mystrlen 0 0
+
+mystrcpy mahesh ganu
+mystrcpy ganesh landge
+mystrcpy mahesh maheshkumar
+mystrcpy mahesh kendre
+mystrcpy mahesh hi 
+mystrcpy 0 kjhdkshdohss
+mystrcpy hjgsdhsjhs 0
+mystrcpy 0 0
+
+mystpcpy tanmay mahesh
+mystpcpy akshay akshaykumar
+mystpcpy vivek vivu
+mystpcpy 0 0
+mystpcpy 0 abhishek
+mystpcpy msdhoni 0
+
+mystrncpy ganesh landge 3
+mystrncpy ganesh abhishek 10
+mystrncpy abhishek yashashree -45
+mystrncpy ganesh landge 0
+mystrncpy maheshkendre abhishek 4
+mystrncpy msdhoni virat -5
+mystrncpy 0 0 0
+mystrncpy 0 like 3 
+mystrncpy tanmay 0 5
+
+mystrcmp mahesh kendre 0
+mystrcmp mahesh mahesh 0
+mystrcmp ganesh 0 0
+mystrcmp abc b 1
+mystrcmp vbg like -1
+mystrcmp abhi anu -5
+mystrcmp 0 0 4
+mystrcmp 0 virat 0
+mystrcmp 0 0 0
+
+mystrncmp ganeshlandge ganesh 6 0
+mystrncmp ganesh ganpati 4 4
+mystrncmp abhishek anurag 0 0
+mystrncmp vivek tatya 4 -5
+mystrncmp 0 0 0 0
+mystrncmp 0 sachin 4 5
+mystrncmp saish 0 0 0
+mystrncmp mahesh mahi 3 0
+mystrncmp anurag anurag 2 8
+
+mystrcasecmp gAnESh ganesh 0
+mystrcasecmp Abc FAST 1
+mystrcasecmp k Jike -2
+mystrcasecmp abHI AnU -5
+mystrcasecmp 0 0 0
+mystrcasecmp vIVEk 0 -5
+mystrcasecmp 0 FAST -45
+
+mystrncasecmp GanESHLANdge Ganesh 6 0
+mystrncasecmp GANesh ganpATI 4 4
+mystrncasecmp abhishek anurag 0 0
+mystrncasecmp vIVEk TYTYA 4 -4
+mystrncasecmp 0 0 0 0
+mystrncasecmp 0 GANesh 4 89
+mystrncasecmp maheshkumar MAHI 3 0
+mystrncasecmp vaibhavgawli vaibhav 8 0
+
+mystrcat ganesh sachin
+mystrcat vaibhav abhishek
+mystrcat abhishek yashashree
+mystrcat ganesh hello
+mystrcat saish kalaskar
+mystrcat ganesh landge
+mystrcat 0 0
+mystrcat 0 TYTYA
+mystrcat vishal 0
+
+mystrncat kartik nagesh 4
+mystrncat vishal kapse 0
+mystrncat mahesh swarup 10
+mystrncat 0 0 4
+mystrncat 0 mahesh 6
+
+mystrdup sachin sachin
+mystrdup vivek arjun
+mystrdup asdf jlkjl
+mystrdup 0 0
+mystrdup 0 swarup
+
+mystrdupa sachin sachin
+mystrdupa vivek arjun
+mystrdupa kkk kkk
+mystrdupa onkar omkar
+mystrdupa 0 0
+
+mystrndup sachin 4 sach
+mystrndup vivek 10 viveka
+mystrndup asdf 2 fd
+mystrndup 0 0 0
+mystrndup kartik 0 0
+mystrndup mumbai-pune 6 mumbai
+mystrndup akshaykumar 8 kumar
+
+mystrrev asdf jkl;
+mystrrev shubham mahbuhs
+mystrrev ksdj weir 
+mystrrev 0 0
+mystrrev hi jhjhj
+mystrrev maheshkumarkendre lapgo
+
+mystrfry salman
+mystrfry john
+mystrfry mukesh
+
+myffs 2 0
+myffs 8 4
+myffs 5 2
+myffs 6528736287362 6
+
+myffsl 15653561659561655659666 5
+myffsl 4654545484684 5
+myffsl 16 5
+myffsl 8744444444444444443489358435964453974354 8
+
+myffsll 23468465484165498848516584816546162198465515421 3
+myffsll 56666666798518462184982198456666666484111151118564898465494565194888955165411100001 8
+myffsll 16 5
+myffsll 32 1
+myffsll 42552653752876728237825362576372874980394892783627372563257846872983928748720192786274782526567325276287827382678263827638276  1
+
+mystrpbrk kbc all
+mystrpbrk abcd jkbl
+mystrpbrk salman man
+mystrpbrk qwert zxcvb
+mystrpbrk mahesh vxyz
+mystrpbrk ganesh kendre
+mystrpbrk 0 0
+mystrpbrk 0 hritik
+
+mystrcspn shiva kalyan 4
+mystrcspn manish gopal 0
+mystrcspn shiva ashish 0
+mystrcspn ganesh ganesh 6
+mystrcspn 0 0 0
+mystrcspn manish 0 -8
+mystrcspn 0 umakant 1
+mystrcspn gopal lapgo 5
+mystrcspn tanmay vaibhav 4
+
+mystrspn shiva ashish 3
+mystrspn umesh umakant 8
+mystrspn katrina aishwarya 0
+mystrspn hritik shahid 4
+mystrspn 0 0 0
+mystrspn kendre 0 5
+mystrspn ganesh landge 4
+mystrspn mahesh kendre 0
+mystrspn mahesh kendre 4
+
+myrindex landge l
+myrindex solapur q
+myrindex hritik k
+myrindex maheshkendre x
+myrindex maheshkendre  m
+myrindex abcdbcdcdabcd y
+
+mystrreplace abcdbcdcdabcd abcd 000000 3
+mystrreplace abbbbbabab ab ** 3
+mystrreplace sachin_vivek_balaji vishal kapse 0
+mystrreplace qwertywerfdwerwewer wer & 5
+mystrreplace mynameishiishdis is her 3
+mystrreplace issiis i me 8 
+
+mystrword abbbbbbababbbab ab 4
+mystrword sachin_vivek_balaji vishal 1
+mystrword qwertywerfdwerwewer wer 3
+
+mybcmp ganeshlandge ganesh 6 0
+mybcmp ganesh ganpati 4 4
+mybcmp abhishek anurag 0 0
+mybcmp vivek tatya 4 -5
+mybcmp 0 0 0 0
+mybcmp 0 sachin 4 5
+mybcmp saish 0 0 0
+
+mystrchr landge k
+mystrchr solapur p
+mystrchr hritik t
+mystrchr maheshkendre  m
+mystrchr abcdbcdcdabcd y
+
+mymemcmp ganeshlandge ganesh 6 0
+mymemcmp ganesh ganpati 4 4
+mymemcmp abhishek anurag 0 0
+mymemcmp vivek tatya 4 -5
+mymemcmp mahi mahesh 4 6
+
+mystrrchr landge d
+mystrrchr solapur z
+mystrrchr hritik i
+
+mymemfrob ganesh 4
+mymemfrob sandip 0
+mymemfrob mahore 15
+mymemfrob mahesh 4
+mymemfrob hritik 6
+
+myindex landge z
+myindex solapur r
+myindex hritik t
+myindex maheshkendre  m
+myindex abcdbcdcdabcd y
+myindex maheshkumarkendre k 
+
+mystrstr abcdbcdcdabcd abcd
+mystrstr abbbbbabab ab
+mystrstr sachin_vivek_balaji vishal
+mystrstr qwertywerfdwerwewer wer
+
+mystrtok ganesh_is_my_name _
+mystrtok abc_;lkdsj-!hii.bye _-;.
+mystrtok mukesh12niesh34dipak56sachin78swapnil 1023456987
+mystrtok This;is.a:test:of=the/string\\tokenizer-function. \\/:;=-"
+
+mystrtok_r ganesh_is_my_name _
+mystrtok_r abc_;lkdsj-!hii.bye _-;.
+mystrtok_r mukesh12niesh34dipak56sachin78swapnil 1023456987
+mystrtok_r This;is.a:test:of=the/string\\tokenizer-function. \\/:;=-"
+
+mymemchr landge k
+mymemchr solapur p
+mymemchr hritik t
+mymemchr maheshkendre  m
+mymemchr abcdbcdcdabcd y
+
+mymemrchr landge d 5
+mymemrchr solapur z 3
+mymemrchr hritik i 8
+
+mymemmem abcdbcdcdabcd 13 abcd 4
+mymemmem abbbbbabab 10 ab 2
+mymemmem sachin_vivek_balaji 19 vishal 6
+mymemmem qwertywerfdwerwewer 19 wer 3
+mymemmem maheshisisis 10 is 2
+mymemmem maheshisisis 6 y 1
+mymemmem maheshmaheshkendre 18 mahesh 6
+
+mymemcpy ganeshlandge ganesh 6
+mymemcpy ganesh ganpati 4
+mymemcpy abhishek anurag 0
+mymemcpy vivek tatya 4
+mymemcpy mahesh hi 
+mymemcpy 0 kjhdkshdohss
+mymemcpy hjgsdhsjhs 0
+mymemcpy 0 0
+
+mymempcpy tanmay mahesh 5
+mymempcpy akshay akshaykumar 8
+mymempcpy vivek vivu 0
+mymempcpy 0 0
+mymempcpy 0 abhishek
+mymempcpy msdhoni 0
+
+mymemccpy tanmay mahesh s 5
+mymemccpy akshay akshaykumar y 8
+mymemccpy vivek vivu u 0
+
+mymemset landge d 5
+mymemset solapur z 3
+mymemset hritik i 8
+mymemset akshaykumar 0 7
+mymemset cghfhgghgiuhj h 12
+mymemset 0 0 0

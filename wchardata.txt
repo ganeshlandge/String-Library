@@ -1,0 +1,169 @@
+mywcslen ganesh 6
+mywcslen kkk 1
+mywcslen nilesh -8
+mywcslen पवन 5
+mywcslen कस 2
+mywcslen nombre 6
+mywcslen ûüÿæœ 6
+mywcslen आदर्शनमुनाउदहरण  6
+mywcslen धडाकित्ता  7
+mywcslen mahesh 8
+mywcslen संस्कृतम्  6
+mywcslen années 9
+mywcslen はたくさんあったけ 10
+mywcslen 가-힣ᄀ-ᇂ 5
+mywcslen 與朋友交而不信乎 7
+mywcslen क्याआपमेरीमददकरसकतेहैं   8
+mywcslen ટેક્સ્ટ  4
+mywcslen ആംഗലേയംമലയാളംശബ്ദകോശം   15
+
+
+mywcscpy संस्कृतम्   दर्शसंस्कृतम्
+mywcscpy mahesh kendre
+mywcscpy mahesh ganu
+mywcscpy ganesh landge
+mywcscpy mahesh maheshkumar
+mywcscpy अंतकरणापासून महोत्सव
+mywcscpy désavouant sélectionnez
+
+mywcscmp ganesh ganesh 0
+mywcscmp abc b 1
+mywcscmp vbg like -1
+mywcscmp abhi anu -5
+mywcscmp नंतर ठेवला -14
+mywcscmp आई आई 0
+mywcscmp itinéraire sélectionnez 3
+mywcscmp énorme अमृत 8
+
+mywcsncmp ganeshlandge ganesh 6 0
+mywcsncmp ganesh ganpati 4 4
+mywcsncmp abhishek anurag 0 0
+mywcsncmp vivek tatya 4 -5
+mywcscspn shiva kalyan 4
+mywcscspn manish gopal 0
+mywcscspn shiva ashish 0
+mywcscspn ganesh ganesh 6
+
+mywcsspn mahesh kendrekumar 4
+mywcsspn दगडमरततअसतत   दगडमरतत  6
+mywcsspn shiva ashish 3
+mywcsspn umesh umakant 8
+mywcsspn katrina aishwarya 0
+mywcsspn hritik shahid 4
+
+mywmemcmp ganeshlandge ganesh 6 0
+mywmemcmp ganesh ganpati 4 4
+mywmemcmp abhishek anurag 0 0
+mywmemcmp vivek tatya 4 -5
+
+mywcscpy mahesh ganu
+mywcscpy ganesh landge
+mywcscpy mahesh maheshkumar
+mywcscpy plusieurs traducteur
+mywcscpy कोणकोणत्या सान्निध्यात
+
+mystpcpy tanmay mahesh
+mystpcpy akshay akshaykumar
+mystpcpy vivek vivu
+mystpcpy उपदेशातून आचरणातून
+mystpcpy désavouant même
+
+mywcsncpy ganesh landge 3
+mywcsncpy ganesh abhishek 10
+mywcsncpy abhishek yashashree 0
+mywcsncpy ganesh landge 0
+mywcsncpy आत्मचरित्र जाणवतात 8
+mywcsncpy gratuit Anapolis 4
+
+
+mywcschr aheshkendre m
+mywcschr दगडमरतत  म 
+mywcschr landge k
+mywcschr solapur p
+mywcschr hritik t
+
+
+mywcspbrk અંગ્રેજીગુજરાતીશબ્દકોશ   ગુજરાતીશબ્દકોશ
+mywcspbrk ఇంగ్లీషుతెలుగునిఘంటువు  లుగునిఘంటువు 
+mywcspbrk ગુજરાતીઅનેગુજરાતીથીઅંગ્રેજીનીસુવિધાઉપલબ્ધકરેછે    નેગુજરાતીથીઅંગ્રેજીનીસુવિધાઉપલબ્ધકરેછે 
+mywcspbrk mumbaipunemumbai bsusuvysbsu    
+mywcspbrk जगासाठीकुणीहीनसलेलीव्यक्तीआपल्या   साठीकुणीहीनसलेली  
+mywcspbrk भावनाआहेततेथेतुटप्रेमआहे   आठवणी
+mywcspbrk kbc all
+mywcspbrk abcd jkbl
+mywcspbrk salman man
+mywcspbrk qwert zxcvb
+
+
+mywcsstr abcddcava xyz
+mywcsstr ആംഗലേയംമ   യംമ 
+mywcsstr दगडमारतातझाडावरफळ     झाडावरफळअसतात
+mywcsstr રેજીનાઅર્થઆસા   નાઅ
+mywcsstr abcdbcdcdabcd abcd
+mywcsstr abbbbbabab ab
+mywcsstr sachin_vivek_balaji vishal
+mywcsstr qwertywerfdwerwewer wer
+mywcsstr कळ्या_तोडून_आणण्याचा_प्रसंग तोडून
+mywcsstr Utilisez_notre_traducteur_gratuit_de énumérer
+
+mywmemchr landge k 6
+mywmemchr solapur p 8
+mywmemchr hritik t 3
+mywmemchr मूलभूत ड 4
+mywmemchr दुष्कर्म ष् 7
+mywmemchr française ÿ 10
+mywmemchr gratuit u 9
+
+mywmemcpy ganeshlandge ganesh 6
+mywmemcpy ganesh ganpati 4
+mywmemcpy abhishek anurag 0
+mywmemcpy vivek tatya 4
+mywmemcpy दाखवीत घडल 3
+mywmemcpy énumérer mauvais 6
+
+mywmemset landge d 5
+mywmemset solapur z 3
+mywmemset mauvais æ 4
+mywmemset hritik i 8
+mywmemset दाखवीत ड 5
+
+
+mywcscat आदर्श  उदहरण  
+mywcscat を産うんだ後  たいことはたくさんあったけれ...
+mywcscat  가-힣ᄀ-ᇂ  後たいことはたくさんあ
+mywcscat 與朋友交而不信乎 人謀而不忠乎與朋友交而不信乎傳
+mywcscat ganesh sachin
+mywcscat vaibhav abhishek
+mywcscat abhishek yashashree
+mywcscat ganesh hello
+mywcscat contiennent chemin
+mywcscat अंतकरणापासून संस्कारक्षम
+
+mywcsncat kartik nagesh 4
+mywcsncat vishal kapse 0
+mywcsncat mahesh swarup 10
+mywcsncat श्रघ्दाजंली कितीतरी 5
+mywcsncat plupart पुस्तकाच्या 11
+
+mywcsdup vivek arjun
+mywcsdup asdf jlkjl
+mywcsdup sssss sssss
+mywcsdup घडल अहे
+mywcsdup sachink sachink
+mywcsdup अनीती अनीती
+mywcsdup ûüÿæœ d'énumérer
+mywcsdup ûüÿæœ ûüÿæœ
+
+mywcsrchr landge d
+mywcsrchr solapur z
+mywcsrchr hritik i
+mywcsrchr हकिकत ण
+mywcsrchr कांदबरी द
+mywcsrchr ûüÿœ æ
+
+mywcstok ganesh_is_my_name _
+mywcstok abc_;lkdsj-!hii.bye _-;.
+mywcstok mukesh12niesh34dipak56sachin78swapnil 1023456987
+mywcstok This;is.a:test:of=the/string\\tokenizer-function. \\/:;=-"
+mywcstok .संस्कार,;म्हणजे'नक्की'काय? ,?;'.
+mywcstok Une;voie./serait,,,d'énumérer><toutes[]les""routes=de =[]<>.,/;"
