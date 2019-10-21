@@ -68,4 +68,5 @@ void *mymemfrob(void *, size_t);
 int myffs(int);
 int myffsl(long );
 int myffsll(long long );
+char *mystrnset(const char *, char, int );
 #endif
