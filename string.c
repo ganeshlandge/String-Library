@@ -756,6 +756,20 @@ int myffsll(long long  n){
 	return bit;
 }
 
+/* Sets the first n character of str with the character ch 
+*/
+char *mystrnset(const char *str, char ch, int n){
+	char *newstr = str;
+	if( n < 0 || n > mystrlen(newstr)) {
+		return NULL;
+	}
+	int i = 0;
+	for(; i < n; ++newstr, ++i){
+		*newstr = ch;
+	}
+	return newstr;
+}
+
 
 
 
